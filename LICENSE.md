@@ -1,7 +1,7 @@
 #Mahsa's 507 log
 ##Log 1: After Hermes?
 
-All through Galloway’s argument reaching this claim, the most significant part that lured my attention in and then pulled me all the way to his assumption was when he told the Spinoza’s tale of transformation(26). He made an analogy of a grown-up infant and a light lost in the shadow which, for me, is just like a message trying to be delivered through the perplexing media today; lost in the spinning world of fast-paced sharing, a tiny light in the shadow failing to illuminate the context. 
+All through Galloway’s argument reaching his claim of hermeneutic interpretation and immanent iridescence withering away(62), the most significant part that lured my attention in and then pulled me all the way to this assumption was when he told the Spinoza’s tale of transformation(26). He made an analogy of a grown-up infant and a light lost in the shadow which, for me, is just like a message trying to be delivered through the perplexing media today; lost in the spinning world of fast-paced sharing, a tiny light in the shadow failing to illuminate the context. 
 
 The Platonic view of art as an imitation views the writing form of a pure thought as a second degree of the truth. And it seems to me that media is even remoter from the truth, for it is imitated three times, and this makes it deceptive and betraying. Although media can be the equal to writing in the sense that they both are images of the thought, media seems to estrange the thought and context much more than simply changing the format. To me Hermes, as Galloway puts it , is “lost”. Just like a complicated maze the contemporary media has spun into endless possibilities and eliminated any true and pure communication. 
 
