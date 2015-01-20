@@ -1,4 +1,5 @@
-#After Hermes?
+#Mahsa's 507 log
+##Log 1: After Hermes?
 
 All through Galloway’s argument reaching this claim, the most significant part that lured my attention in and then pulled me all the way to his assumption was when he told the Spinoza’s tale of transformation(26). He made an analogy of a grown-up infant and a light lost in the shadow which, for me, is just like a message trying to be delivered through the perplexing media today; lost in the spinning world of fast-paced sharing, a tiny light in the shadow failing to illuminate the context. 
 
