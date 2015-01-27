@@ -10,7 +10,7 @@ I would like to demonstrate the piece by a long form, media-rich narrative since
 
 
 
-The type of media that I will need to maser this recipe would be Scalar, CSS, and markdown. I intent to create a visually accessible piece that is both illuminating and educational.
+The type of media that I will need to maser this recipe would be Scalar, CSS, and markdown.furthermore, D3.js, Python , and CityEngine. I intent to create a visually accessible piece that is both illuminating and educational.
 
 **Bibliography**
 
