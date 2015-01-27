@@ -12,7 +12,7 @@ The type of media that I will need to maser this recipe would be Scalar, CSS, an
 
 ##Bibliography
 
-   [Stanford Encyclopedia of Philosophy!](http://plato.stanford.edu/entries/umar-khayyam/)
+   [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/entries/umar-khayyam/)
 
 Zhukovski, V. A., 1898, “ ‘Umar Khayyām and the ‘Wandering’ Quatrains,” E.D. Ross (trans.),Journal of the Royal Asiatic Society, 30: 349–366.
 
