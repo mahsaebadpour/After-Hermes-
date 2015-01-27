@@ -1,4 +1,4 @@
-#January 27,2015 Thought piece
+#Log2: Thought piece
 
 
 Umar Khayyam was a polymath, scientist, philosopher, and poet of the 11th century CE. Although Umar Khayyam's Rubā‘iyyāt have been admired in the Persian speaking world for many centuries, they have only been known in the West since the mid 19th century, when Edward FitzGerald rendered the Rubā‘iyyāt into English. In his Rubā‘iyyāt, Khayyam challenged religious doctrines and casts doubt on them. The paradox of his philosophies where he refers to God as the “Necessary Being” and his Rubā‘iyyāt in which he exhibits skepticism is the subject of my interest. I aim to shed light upon his ideas and philosophies in Rubā‘iyyāt to determine which philosophy and thought he leaned towards. What shall we call the ideas that Khayyam expresses in Rubā‘iyyāt; theological or philosophical?  
