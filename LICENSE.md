@@ -1,3 +1,5 @@
+# Thought piece reviews 
+
 **Review of Nadia’s thought piece**
 
 The most persuasive aspect of your piece is how it aims to dive into the emotional aspect of a person. A psychological approach to a text of a novel that attempts to shed light on emotional challenges of the main character is very intriguing.
