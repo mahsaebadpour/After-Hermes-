@@ -18,7 +18,7 @@ The idea of looking into the complexity of the Agnes Grey’s narrative, in atte
 **Review of Matt’s thought piece**
 
 The concept of art mirroring life is very alluring to me. Because to explore how an old fable would still raise same (or different) responses is very persuasive. 
-The research question seems a little broad and confusing. I think you have a clear idea of what you want to argue; to make a text-based game adapted from the Tower of Babel to determine the response of the players. The only hiccup seems to be the method of monitoring and gathering the data. You mentioned adding a comment section which I think could be useful, but it could also be time-consuming and not accurate. Perhaps you could have an online poll for the players which would make analyzing the data seems to be more rapid and efficient.
+The research question seems a little broad and confusing. I think you have a clear idea of what you want to argue; to make a text-based game adapted from the Tower of Babel to determine the response of the players. The only hiccup seems to be the method of monitoring and gathering the data. You mentioned adding a comment section which I think could be useful, but it could also be time-consuming and not accurate. Perhaps you could have an online poll for the players which would make analyzing the data  more rapid and efficient.
 
 
 #Log2: Thought piece
