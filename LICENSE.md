@@ -1,3 +1,32 @@
+
+#Thought piece revised 
+
+Perhaps I should also revise my heading since my thought piece is not so much revised as crumbled and tossed away. After much consideration along with the sudden realisation of the shortness of life and the length of my previous project, I decided to work on The Great Gatsby(at least the author is the same!).
+
+
+Fitzgerald's The Great Gatsby , the story of a young millionaire attempting desperately to gain the affection of his love, has been studied, wrote on , and analysed in every aspect;the decay of american dream , materialism, clash of different social classes and so forth. The greatness of the Gatsby-the book- is stemmed from the fact that it never fails to fascinate the readers. For there is always a new revelation gained while fiddling with this work of literature. Symbols and motifs are a strong element in the story and there has been a lot of emphasis on the green light and the eyes of Doctor T. J. Eckleburg, leaving weather and its impact through out the story quite unnoticed. 
+
+The weather in The Great Gatsby has strong symbolic imagery as well as a strong link to emotional state of the characters consequently affecting their course of actions. My intention is to take a close look at how different weather conditions define and change the emotions felt by different characters and how they determine the actions taken by the characters.
+
+In other words, what is the extend of the impact that weather has on the characters' emotions and actions, and would altering the weather conditions modify those emotions and actions? 
+
+New media can assist me in several ways to make the process more rapid and convenient. The first thing that comes to mind is , thanks to technology, the close reading of the novel and gathering a data base of all the weather conditions would be a faster process. Demonstration of the patterns in which weather conditions, emotions, and actions are connected is another advantage of using new media. 
+My primary thought was to exhibit these relations in the form of a 3D network visualisation.  However, that was pre- Friday and before Dr. Sayers introduced me to Great Gatsby: The game. ( thus, the coolness of my project rocketed through the imaginary glass ceiling) 
+There has been many adaptations of The Great Gatsby most interesting of which are games. You would be surprised how many results you get when you search Gatsby on Apple's AppStore! 
+
+My plan is to creat a game -preferably text-based- with the main story line same as the book. Since my purpose is to find out should the weather conditions change, would the course of action of the characters also change or not, the players could either have the option to choose the weather condition in different levels of the game or the weather conditions will be altered in the game to monitor how the players' reaction change as apposed to characters in the book. The players could also be given the option to choose their character from Nick, Gatsby, or Daisy. 
+
+My main concern is how to monitor the results and gather the data. I could consider having the players submit their score once finished playing, or have an online poll. 
+
+To be able to creat this game I will need to master either Ruby or Python. 
+
+**Bibliography**
+
+Fitzgerald, F. Scott. The Great Gatsby. 1925. New York: Scribners, 2004
+
+
+
+
 # Thought piece reviews 
 
 **Review of Nadia’s thought piece**
