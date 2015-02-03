@@ -1,7 +1,7 @@
 
 #Thought piece revised 
 
-Perhaps I should also revise my heading since my thought piece is not so much revised as crumbled and tossed away. After much consideration along with the sudden realisation of the shortness of life and the length of my previous project, I decided to work on The Great Gatsby(at least the author is the same!).
+Perhaps I should also revise my heading since my thought piece is not so much revised as crumbled and tossed away. After much consideration along with a sudden realisation of the shortness of life and the length of my previous project, I decided to work on The Great Gatsby(at least the author is the same!).
 
 
 Fitzgerald's The Great Gatsby , the story of a young millionaire attempting desperately to gain the affection of his love, has been studied, wrote on , and analysed in every aspect;the decay of american dream , materialism, clash of different social classes and so forth. The greatness of the Gatsby-the book- is stemmed from the fact that it never fails to fascinate the readers. For there is always a new revelation gained while fiddling with this work of literature. Symbols and motifs are a strong element in the story and there has been a lot of emphasis on the green light and the eyes of Doctor T. J. Eckleburg, leaving weather and its impact through out the story quite unnoticed. 
