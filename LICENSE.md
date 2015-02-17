@@ -1,10 +1,12 @@
 #log4: Bibliography 
 
-**Primary Sources**
-Fitzgerald, F. Scott 1896-1940, and Michael Everett Nowlin 1962. The Great Gatsby. Peterborough, Ont: Broadview Editions, 2007.
+##Primary Sources**
+
+**Fitzgerald, F. Scott 1896-1940, and Michael Everett Nowlin 1962. The Great Gatsby. Peterborough, Ont: Broadview Editions, 2007.**
+
 The Great Gatsby is widely regarded as one of the masterpieces of American fiction. It tells of the mysterious Jay Gatsby's grand effort to win the love of Daisy Buchanan, the rich girl who embodies for him the promise of the American dream. Deeply romantic in its concern with self-making, ideal love, and the power of illusion, it draws on modernist techniques to capture the spirit of the materialistic, morally adrift, post-war era Fitzgerald dubbed "the jazz age.This Broadview edition sets the novel in context by providing readers with a critical introduction and crucial background material about the consumer culture in which Fitzgerald was immersed; about the spirit of the jazz age; and about racial discourse in the 1920s.
 
-**Secondary Sources**
+##Secondary Sources**
 
 **Scott, Robert Ian. "A Sense Of Loss: Entropy Vs. Ecology In The Great Gatsby." Queen's Quarterly 82.(1975): 559-571. MLA International Bibliography. Web. 17 Feb. 2015.**
 In this article it is argued how Fitzgerald made the second law of thermodynamics movingly concrete with examples of the corrupting effects of time and wealth, which disorganize and then destroy the ecology, the complexly sensitive relationships on which life and hope depend. Fitzgerald may have taken a part of this knowledge of the tendency of entropy to increase from Adams' The Degradation of the Democratic Dogma. This knowledge makes the novel an ecological parable, and explains why the one-way flow of time both provokes and dooms Gatsby's dream of recovering his great good moment with Daisy.
