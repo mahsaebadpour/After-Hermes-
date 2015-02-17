@@ -9,6 +9,7 @@ The Great Gatsby is widely regarded as one of the masterpieces of American ficti
 ##Secondary Sources
 
 **Scott, Robert Ian. "A Sense Of Loss: Entropy Vs. Ecology In The Great Gatsby." Queen's Quarterly 82.(1975): 559-571. MLA International Bibliography. Web. 17 Feb. 2015.**
+
 In this article it is argued how Fitzgerald made the second law of thermodynamics movingly concrete with examples of the corrupting effects of time and wealth, which disorganize and then destroy the ecology, the complexly sensitive relationships on which life and hope depend. Fitzgerald may have taken a part of this knowledge of the tendency of entropy to increase from Adams' The Degradation of the Democratic Dogma. This knowledge makes the novel an ecological parable, and explains why the one-way flow of time both provokes and dooms Gatsby's dream of recovering his great good moment with Daisy.
 
 **Kerr, Frances. "Feeling `Half Feminine': Modernism And The Politics Of Emotion In The Great Gatsby." American Literature 68.2 (1996): 405. America: History and Life with Full Text. Web. 17 Feb. 2015.**
@@ -41,6 +42,7 @@ This project investigates metaphysical aspects of poetic language in nineteenth 
 This article explores the relationship between sentiment and plot shape in fiction using an R package titled “syuzhet” . The package is designed to extract sentiment and plot information from prose. Methods for text import, sentiment extraction, and plot arc modeling are described in the documentation and in the package vignette.
 
 **Jockers, Matthew L."A Novel Method for Detecting Plot". *Matthewjockers online*.Web. 05 Jun.2014.** <http://www.matthewjockers.net/2014/06/05/a-novel-method-for-detecting-plot>
+
 While working on a project in which Jockers was applying the tools and techniques of sentiment analysis to works of fiction, he initially was interested in tracing the evolution of emotional content in novels over the course of the 19th century. By accident he discovered that the sentiment he was detecting and measuring in the fiction could be used as a highly accurate proxy for plot movement.
 
 
