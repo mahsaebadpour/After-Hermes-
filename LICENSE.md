@@ -1,6 +1,6 @@
 #log4: Bibliography 
 
-##Primary Sources
+##Primary Source
 
 **Fitzgerald, F. Scott 1896-1940, and Michael Everett Nowlin 1962. The Great Gatsby. Peterborough, Ont: Broadview Editions, 2007.**
 
