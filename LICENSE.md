@@ -1,60 +1,6 @@
 #log4: Bibliography 
 
-##Primary Source
-
-**Fitzgerald, F. Scott 1896-1940, and Michael Everett Nowlin 1962. The Great Gatsby. Peterborough, Ont: Broadview Editions, 2007.**
-
-The Great Gatsby is widely regarded as one of the masterpieces of American fiction. It tells of the mysterious Jay Gatsby's grand effort to win the love of Daisy Buchanan, the rich girl who embodies for him the promise of the American dream. Deeply romantic in its concern with self-making, ideal love, and the power of illusion, it draws on modernist techniques to capture the spirit of the materialistic, morally adrift, post-war era Fitzgerald dubbed "the jazz age.This Broadview edition sets the novel in context by providing readers with a critical introduction and crucial background material about the consumer culture in which Fitzgerald was immersed; about the spirit of the jazz age; and about racial discourse in the 1920s.
-
-##Secondary Sources
-
-**Barca, Lisa A. "Heavy Weather And A Slant Of Light: Modernity, Mythos, And The Metaphysical Functions Of Poetry From Emily Dickinson To Eugenio Montale." Dissertation Abstracts International 73.7 (2013): MLA International Bibliography. Web. 17 Feb. 2015.**
-
-This project investigates metaphysical aspects of poetic language in nineteenth and twentieth-century lyric poetry, focusing on four authors.
-
-**D'Agnese, Joseph. "Is The Weather Driving You Crazy?." Discover 21.6 (2000): 78. Canadian Reference Centre. Web. 17 Feb. 2015.**
-
-This study discusses the effects of weather on people's health and behavior. Claims made by biometeorologists/bioclimatologists regarding the phenomenon; Lack of scientific proof regarding the weather-behavior linkups; Experiments conducted to study the relation between weather and the psyche.
-
-**Hartley, Peter Eugene. Ecology And America. n.p.: 1973. ERIC. Web. 17 Feb. 2015.**
-
-In this dissertation it is discussed how the economic value system is expressed in works like "The Great Gatsby,""Babbitt," and "The Big Money," while the ecological aesthetic is expressed in the works of Henry Thoreau, Robinson Jeffers, and Wallace Stevens. The current biotic crisis is an inevitable result of the dominant cultural aesthetic as revealed in American literature and as it pervades everyday life, and therefore, an aesthetic crisis that the "objective" stance of positivist rationality cannot meet. 
-
-**Horanont, Teerayut, et al. "Weather Effects On The Patterns Of People's Everyday Activities: A Study Using GPS Traces Of Mobile Phone Users." Plos ONE 8.12 (2013): 1-14. Academic Search Complete. Web. 17 Feb. 2015.**
-
-This study explores the effects that the weather has on people's everyday activity patterns. Temperature, rainfall, and wind speed were used as weather parameters. People's daily activity patterns were inferred, such as place visited, the time this took place, the duration of the visit, based on the GPS location traces of their mobile phones overlaid upon Yellow Pages information.
-
-
-
-**Howarth, J M. "The Crisis Of Ecology: A Phenomenological Perspective." Environmental Values 4.1 (1995): 17-30. Philosopher's Index. Web. 17 Feb. 2015.**
-
-The thesis will be supported by methods drawn from phenomenology. Phenomenological enquiry can reveal and criticize the modernist assumptions, while traditional phenomenological notions, in particular Heidegger's notion of Dwelling and Merleau- Ponty's notion of the body- subject might form a more eco- friendly framework for enquiring into the character of interactions within the natural world and the basis of values in those interactions.
-
-**Jockers, Matthew L."A Novel Method for Detecting Plot". *Matthewjockers online*.Web. 05 Jun.2014.** <http://www.matthewjockers.net/2014/06/05/a-novel-method-for-detecting-plot>
-
-While working on a project in which Jockers was applying the tools and techniques of sentiment analysis to works of fiction, he initially was interested in tracing the evolution of emotional content in novels over the course of the 19th century. By accident he discovered that the sentiment he was detecting and measuring in the fiction could be used as a highly accurate proxy for plot movement.
-
-**Jockers, Matthew L."Revealing Sentiment and Plot Arcs with the Syuzhet Package". *Matthewjockers online*.Web. 02 February.2015.** 
-<http://www.matthewjockers.net/2015/02/02/syuzhet>
-
-This article explores the relationship between sentiment and plot shape in fiction using an R package titled “syuzhet” . The package is designed to extract sentiment and plot information from prose. Methods for text import, sentiment extraction, and plot arc modeling are described in the documentation and in the package vignette.
-
-**Kerr, Frances. "Feeling `Half Feminine': Modernism And The Politics Of Emotion In The Great Gatsby." American Literature 68.2 (1996): 405. America: History and Life with Full Text. Web. 17 Feb. 2015.**
-
-This article illuminates how in 'The Great Gatsby' (1925), F. Scott Fitzgerald raises but does not resolve gender issues with which he was probably unable to cope. He both observed and dismantled distinctions between masculinity and femininity and their respective association with sentiment and vitality. The novel's character Nick Carraway demonstrates ambiguity by displaying a male reserve in public and excessive emotion in private and by being attracted to feminine traits in other men. Fitzgerald may have feared to express publicly his lack of disgust with feminine men but also was uncomfortable with the current literary ideology that raised masculine artistic accomplishments over feminine self-expression.
-
-**Schwartz, Elaine G., and S. Daniel Schwartz. "Culture, Ecology And Education: The Paradox Of Modernism In The Transition To A Postmodern World." Review Of Education, Pedagogy & Cultural Studies 17.2 (1995): 167-74. ERIC. Web. 17 Feb. 2015.**
-
-Earth's current ecological crisis, rooted in modernist culture, threatens extinction in a historically distinct new manner. Western educators have responded by creating environmental education. Many educators' and authors' voices are the living roots of a transformative and prophetic holistic education for a postmodern world and must be heard within education.
-
-**Scott, Robert Ian. "A Sense Of Loss: Entropy Vs. Ecology In The Great Gatsby." Queen's Quarterly 82.(1975): 559-571. MLA International Bibliography. Web. 17 Feb. 2015.**
-
-In this article it is argued how Fitzgerald made the second law of thermodynamics movingly concrete with examples of the corrupting effects of time and wealth, which disorganize and then destroy the ecology, the complexly sensitive relationships on which life and hope depend. Fitzgerald may have taken a part of this knowledge of the tendency of entropy to increase from Adams' The Degradation of the Democratic Dogma. This knowledge makes the novel an ecological parable, and explains why the one-way flow of time both provokes and dooms Gatsby's dream of recovering his great good moment with Daisy.
-
-
-
-
-
+##Updating.....
 
 #Thought piece revised 
 
