@@ -6,12 +6,12 @@
 
 ##Secondary Sources
 
-**Denissen, Jaap J. A., et al. "the Effects of Weather on Daily Mood: A Multilevel Approach." 8.5 (2008): 662-7. Print. **
+**Denissen, Jaap J. A., et al. "the Effects of Weather on Daily Mood: A Multilevel Approach." 8.5 (2008): 662-7. Print.**
 This present study examines the effects of six weather parameters (temperature, wind power, sunlight, precipitation, air pressure, and photoperiod) on mood (positive affect, negative affect, and tiredness). I am hoping the corpus of this work will provide me with insights into the existing associations between weather and mood to compare to the associations made in The great Gatsby by Fitzgerald.
 
-**Flatley, Jonathan. Affective Mapping: Melancholia and the Politics of Modernism. Cambridge, Massachusetts, and London, England: HARVARD UNIVERSITY PRESS, 2008. Print. **
+**Flatley, Jonathan. Affective Mapping: Melancholia and the Politics of Modernism. Cambridge, Massachusetts, and London, England: HARVARD UNIVERSITY PRESS, 2008. Print.**
 Affective mapping” is the name Flatley gives to the aesthetic technology—in the older, more basic sense of a techne—that represents the historicity of one’s affective experience. In mapping out one’s affective life and its historicity, a political problem (such as racism or revolution) that may have been previously invisible, opaque, difﬁcult, abstract, and above all depressing may be transformed into one that is interesting, that solicits and rewards one’s attention. Since this work is mainly concerned with the study of nineteenth and twentieth centuries, it will help me have a better understanding of the affect in modernism and find out whether Fitzgerald was making associations in this frame or not.
-**Jockers, Matthew L. "A Novel Method for Detecting Plot." *Matthew L. Jockers* .2014.Web. 17 Feb.2015. **<http://www.matthewjockers.net/2014/06/05/a-novel-method-for-detecting-plot>. 
+**Jockers, Matthew L. "A Novel Method for Detecting Plot." *Matthew L. Jockers.2014.Web. 17 Feb.2015. **<http://www.matthewjockers.net/2014/06/05/a-novel-method-for-detecting-plot>. 
 While working on a project in which Jockers was applying the tools and techniques of sentiment analysis to works of fiction, he initially was interested in tracing the evolution of emotional content in novels over the course of the 19th century. By accident he discovered that the sentiment he was detecting and measuring in the fiction could be used as a highly accurate proxy for plot movement.
 This work is a good sample of sentimental analysis that I will be looking into. The techniques and methods used in this research will be the basic text analysis for my project.
 
