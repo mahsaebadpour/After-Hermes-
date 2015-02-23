@@ -1,7 +1,10 @@
 #log4: Bibliography 
 
 ##Primary Sources
+
 **Fitzgerald, F. Scott 1896-1940. The Great Gatsby. London: Folio Society, 1968.**
+
+
 **---. The Great Gatsby. London: Scott F. Fitzgerald,1925. Feed books. Web. 17 Feb.2015**
 
 ##Secondary Sources
