@@ -7,38 +7,60 @@
 ##Secondary Sources
 
 **Denissen, Jaap J. A., et al. "the Effects of Weather on Daily Mood: A Multilevel Approach." 8.5 (2008): 662-7. Print.**
-This present study examines the effects of six weather parameters (temperature, wind power, sunlight, precipitation, air pressure, and photoperiod) on mood (positive affect, negative affect, and tiredness). I am hoping the corpus of this work will provide me with insights into the existing associations between weather and mood to compare to the associations made in The great Gatsby by Fitzgerald.
+
+This study examines the effects of six weather parameters (temperature, wind power, sunlight, precipitation, air pressure, and photoperiod) on mood (positive affect, negative affect, and tiredness). I am hoping the corpus of this work will provide me with insights into the existing associations between weather and mood to compare to the associations made in The great Gatsby by Fitzgerald.
 
 **Flatley, Jonathan. Affective Mapping: Melancholia and the Politics of Modernism. Cambridge, Massachusetts, and London, England: HARVARD UNIVERSITY PRESS, 2008. Print.**
+
 Affective mapping” is the name Flatley gives to the aesthetic technology—in the older, more basic sense of a techne—that represents the historicity of one’s affective experience. In mapping out one’s affective life and its historicity, a political problem (such as racism or revolution) that may have been previously invisible, opaque, difﬁcult, abstract, and above all depressing may be transformed into one that is interesting, that solicits and rewards one’s attention. Since this work is mainly concerned with the study of nineteenth and twentieth centuries, it will help me have a better understanding of the affect in modernism and find out whether Fitzgerald was making associations in this frame or not.
-**Jockers, Matthew L. "A Novel Method for Detecting Plot." *Matthew L. Jockers.2014.Web. 17 Feb.2015. **<http://www.matthewjockers.net/2014/06/05/a-novel-method-for-detecting-plot>. 
+
+**Jockers, Matthew L. "A Novel Method for Detecting Plot." *Matthew L. Jockers.2014.Web. 17 Feb.2015.**
+
+<http://www.matthewjockers.net/2014/06/05/a-novel-method-for-detecting-plot>. 
+
 While working on a project in which Jockers was applying the tools and techniques of sentiment analysis to works of fiction, he initially was interested in tracing the evolution of emotional content in novels over the course of the 19th century. By accident he discovered that the sentiment he was detecting and measuring in the fiction could be used as a highly accurate proxy for plot movement.
 This work is a good sample of sentimental analysis that I will be looking into. The techniques and methods used in this research will be the basic text analysis for my project.
 
-**Jockers, Matthew L. "Plot Arcs (Schmidt Style)." *Matthew L. Jockers*.2015.Web. 17 Feb.2015.** <http://www.matthewjockers.net/2015/01/05/plot-arcs-schmidt-style>. 
+**Jockers, Matthew L. "Plot Arcs (Schmidt Style)." *Matthew L. Jockers*.2015.Web. 17 Feb.2015.** 
+
+<http://www.matthewjockers.net/2015/01/05/plot-arcs-schmidt-style>. 
+
 In my his recent work , Jockers have been attempting to model plot movement in narrative fiction by analyzing the rise and fall of emotional valence across narrative time. This analysis of emotions will be a valuable source for my research and I could make use of the models and techniques that Jockers employs.
 
 **Jockers, Matthew L."Revealing Sentiment and Plot Arcs with the Syuzhet Package."*Matthew L.Jockers*.2015.Web.17 Feb.2015.**  
+
 <http://www.matthewjockers.net/2015/02/02/syuzhet>.
+
 This article explores the relationship between sentiment and plot shape in fiction using an R package titled “syuzhet” . The package is designed to extract sentiment and plot information from prose. Methods for text import, sentiment extraction, and plot arc modeling are described in the documentation and in the package vignette. 
 This package would be a handy tool for me to extract emotional and sentimental models and patterns in the great Gatsby.
+
 **Kerr, Frances. "Feeling `Half Feminine': Modernism And The Politics Of Emotion In The Great Gatsby." American Literature 68.2 (1996): 405. America: History and Life with Full Text. Web. 17 Feb. 2015.**
+
 This article illuminates how in 'The Great Gatsby' (1925), F. Scott Fitzgerald raises but does not resolve gender issues with which he was probably unable to cope. He both observed and dismantled distinctions between masculinity and femininity and their respective association with sentiment and vitality. I am mostly interested in the way the emotional associations are depicted in this article and it would a beneficial example for the research I will be undertaking. 
+
 **KOHLMANN, BENJAMIN. "Awkward Moments: Melodrama, Modernism, And The Politics Of Affect." PMLA: Publications Of The Modern Language Association Of America 128.2 (2013): 337-351. Academic Search Complete. Web. 21 Feb. 2015.**
+
 The modernist privileging of irony and detached contemplation frequently combined with a recognition of the social and artistic significance of affect. The relation between melodramatic structures of feeling and modernist innovation is evident in two plays of the interwar years: Bertolt Brecht and Elisabeth Hauptmann's Happy End and W. H. Auden and Christopher Isherwood's On the Frontier. Scholars need to develop a vocabulary that complements the customary critical emphasis on modernist "irony," "estrangement," and "difficulty" and that can be used to reconstruct the full force of the modernist uses of affect.
 Distinguishing the way modernist poets and writers exhibit affect in their works is of very much use for exploring Fitzgerald’s work , and discovering if he was also using traditional or typical associations.
+
+
 **Kööts, L., A. Realo, and J. Allik. "the Influence of the Weather on Affective Experience: An Experience Sampling Study." Individual Differences 32.2 (2011): 74-84. Print.** 
+
 This study examined the relationship between affective experiences and weather variables using an experience-sampling method. The moderating effects of personality and age on the relationship were also investigated.
 
 The value of this research for me is in how depictions between weather and emotions have been made, and I would be able to use both the results and methods of the research to examine the patterns concerning weather and emotions used in The Great Gatsby. 
 
-**Schmidt , Ben. "Typical TV Episodes: Visualizing Topics in Screen Time." Sapping Attention. 2014.Web. 17 Feb.2015. <http://sappingattention.blogspot.ca/2014/12/typical-tv-episodes-visualizing-topics.html>.**
+**Schmidt , Ben. "Typical TV Episodes: Visualizing Topics in Screen Time." Sapping Attention. 2014.Web. 17 Feb.2015.**
+
+<http://sappingattention.blogspot.ca/2014/12/typical-tv-episodes-visualizing-topics.html>.
 
 What can we see by looking at the different content of TV shows? Are there elements to the ways that TV shows are laid out--common plot structures--that repeat? How thematically different is the end of a show from its beginning? Ben began by topic modeling the closed captioning data from a series of popular TV series and then visualizing the ten most common topics over the time span of each episode. In other words, the x-axis is time, and the y-axis is a measure of topical presence. The end result is something that begins to look a bit like what we could call plot.
 
 Although Schmidt’s project is much lengthier than mine since it looks at a couple of hundred shows, I would be able to employ his means of modeling to a novel just as Jockers attempted to do. This work is especially useful in the sense that it divided the material into different sections (a corpus of 80,000 movies and TV show episodes into 3 minute chunks, and then divided each show into 12 roughly-equal parts)which is what I intend to do with Fitzgerald’s The Great Gatsby
 
 **Scott, Robert Ian. "A Sense Of Loss: Entropy Vs. Ecology In The Great Gatsby." Queen's Quarterly 82.(1975): 559-571. MLA International Bibliography. Web. 17 Feb. 2015.**
+
+
 In this article it is argued how Fitzgerald made the second law of thermodynamics movingly concrete with examples of the corrupting effects of time and wealth, which disorganize and then destroy the ecology, the complexly sensitive relationships on which life and hope depend.
 This article makes lucid associations with ecology and various events of the story. There are also association s of different emotions i.e. Love with October night. I would be able to use the portrayed outlines in illustrating sentimental patterns throughout the story.
 
