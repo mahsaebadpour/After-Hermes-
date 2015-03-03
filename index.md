@@ -11,6 +11,7 @@ Fitzgerald's The Great Gatsby has been a popular subject among researchers. It h
 **Scope**
 
 Initially, I was interested in creating a game -preferably text based- with the main story line same as the book and alter weather conditions to monitor how the players' reaction change compared to characters in the book. However, I will not afford the time to undertake this project during the semester.
+
 P.S. I also couldn’t decide on the title.
 
 **Concerns**
