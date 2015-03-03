@@ -7,11 +7,17 @@
   **The almighty weather: Exploring weather patterns of Fitzgerald’s “The Great Gatsby” to determine sentimental associations** 
 
 Fitzgerald's The Great Gatsby has been a popular subject among researchers. It has been written on excessively in various aspects; the decay of American dream, materialism, clash of different social classes and so forth. The greatness of the Gatsby is stemmed from the fact that it never fails to provide the reader with a fresh perspective. Symbols are strong elements in the story and while there has been a lot of emphasis on the green light and the eyes of Doctor T. J. Eckleburg, weather conditions and their impact throughout the story have remained quite unnoticed. The weather in The Great Gatsby has a strong link to emotional state of the characters consequently affecting their course of actions. This paper takes a closer look at how different weather conditions impact the characters’ emotions and raises the question that should the weather conditions alter, would those emotions be modified ,or not? Primarily, I will take on the task of reading the novel and manually gathering key terms related to the weather to identify all the common references in the text. Entering the extracted terms into a text file, I will study all the extractions and systematically replace them using Find/Replace in text editor. Once this replacement has been made, the weather patterns in Gatsby will change and I would be able to determine if the “deformed” text speaks to emotion or sentiment. I am hoping that this research will shed light on the sentimental and weather associations that Fitzgerald employs in The Great Gatsby.
+
 **Scope**
+
 Initially, I was interested in creating a game -preferably text based- with the main story line same as the book and alter weather conditions to monitor how the players' reaction change compared to characters in the book. However, I will not afford the time to undertake this project during the semester.
 P.S. I also couldn’t decide on the title.
+
 **Concerns**
+
 At this point I cannot decide on the alterations that are to be made on the weather patterns. I would like to have your suggestions on what kind of pattern you think I should use? Should I ,for example, change the “positive” terms (i.e. sunshine) with “negative” ones ( i.e. rain) ? I would be very glad to hear what other systems you could think of to use here. 
+
+
 **Peer reviewed journal** : Explicator
 
 
