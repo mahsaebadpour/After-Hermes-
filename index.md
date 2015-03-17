@@ -1,3 +1,57 @@
+#March 17
+
+##Data:
+
+###Count of how many times a particular word appears in different chapters via Python
+
+####Chapter five
+ 
+**“Rain”**  17    (28.81%)
+
+**”wind”**  8
+
+**”mist”**   4
+
+**”sun”**    4
+
+**”laugh”** 4
+
+**”cry”**     1
+
+####Chapter seven
+
+**”Hot”**    10   (26.31%)
+
+**”Heat”**    9   (47.36%)
+
+**”wind”**    10
+
+**”Sweat”**    2
+
+####The whole text
+
+**”Rain”**    59
+
+**”Hot”**      38
+
+**”heat”**     19
+
+##Where I am 
+
+The effect of weather conditions on the plot in The Great Gatsby goes quite far. Through close reading of the novel and extracting the weather patterns it has been pointed out that all three deaths occurring in the novel would be completely avoided if the weather condition was altered. The season being summer and weather being “broiling” the characters decide to drive to New York, swap cars, and stop at the garage. Furthermore, the associations made between various weather conditions and emotional state of characters- often even the story- is not typical. Reunions are made in the rain and murders happen in baking heat of a sunny day. I would still have to look into the scientific influence weather plays on the psyche and ideally find a source to determine the associations made in other 20th century fictions for the sake of comparison. I have altered almost all the weather patterns in the main text and now I am in midst of running a sentimental analysis using Matthew Jockers’ “Syzhuet” package. This would help to better compare different chapters with each other and also the deformed text with the original one. 
+
+
+I would like to share my work with public on my Github. However, I’d prefer to do it after (if) I publish.
+
+I would also like to make my data and method, aside from my essay, discoverable.
+
+
+
+
+
+
+
+
 #March 3rd , Abstract 
 
 
