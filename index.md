@@ -1,5 +1,15 @@
 #March 17
 [spreadsheet](https://docs.google.com/spreadsheets/d/1H5mV4lbQfZWFu67HeTRC1wOB98fyLs96NvxOKdumEHo/pubhtml)
+[Chapter1](https://docs.google.com/document/d/1gs7tt9yV4Zc_adYr-OBhOIaH-tFwvF8V7KM_3AMlIdY/pub)
+[Chapter2](https://docs.google.com/document/d/1VQ7t0bsXmldur1lbK9Rla37zGIb3WLZhDU9w4gZ8T04/pub)
+[Chapter3](https://docs.google.com/document/d/18OzbTTpxhtbVff1EQwWs3U5FffOSzVg9tuh8PoORnjY/pub)
+[Chapter4](https://docs.google.com/document/d/1by6VcEsMmq3a89tHb-PA6IuV_1LKwKhJBmcHXYYBFU4/pub)
+[chapter5](https://docs.google.com/document/d/1JbC349Er6u6z97ZJ7TWP6WrYVrtWgEr1PSmp3fXuxs4/pub)
+[Chapter6](https://docs.google.com/document/d/14gMGUf5TOb3YsfBnjB7EJSW7etfpRjpmTF88hmOm8D4/pub)
+[chapter7](https://docs.google.com/document/d/1n9izA8EJURJBQgBsvw7FR2V8IfQJHAhtZkUCT_RePfI/pub)
+[Chapter8](https://docs.google.com/document/d/1N_h94e-UkFC2ghDU0H2dFdWzdf_2SbDpZJmvKrSjknA/pub)
+[Chapter9](https://docs.google.com/document/d/1xlFg_hTVEmB2-ejOoOC5JXLmfeoBBiSJH4J231cxvUs/pub)
+
 ##Data:
 
 ###Count of how many times a particular word appears in different chapters via Python
