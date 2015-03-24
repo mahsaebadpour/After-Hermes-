@@ -1,3 +1,13 @@
+#March 24
+
+##Abstract
+
+
+
+Lisa Samuels and Jerome McGann's "Deformance and Interpretation" discusses a new form of literary critique. Their concept of deformance is based on the claim that when you change the text it changes the way it functions, and you can then see a different side of the piece which can provoke new questions and answers. There are four types of deformative methods described: reordering, isolating, altering and adding. Three texts have been deformed using various techniques of deformance critique. The first technique of text alteration is applied to John Wilmot, Second Earl of Rochester's poem "To the Postboy".  A spectrum of deformed poems from libertine to religious were produced to uncover the sincerity of Rochester's religious conversion in 1680. The second text being looked at through deformance critique is Fitzgerald's The Great Gatsby in which the impact of weather conditions regarding the sentimental and consequential aspects has been determined ;an extraction of weather and sentimental associations from the plot by modifying the text. The final text utilizing deformation is the Tower of Babel, wherein the sequence of events prove integral to the traditional interpretation and meaning of the text. To deform the original text and reveal other possible interpretations or meanings from the text, _A Tower_ reorganizes passages and events in the biblical story of Babel according to user gameplay. As a result, the game blurs the lines between user and God, the Word and code, and performance and deformance. These three arguments adapted methods of deformation in order to better understand the way these pieces work and how the results reflect on the text as a whole.
+
+
+
 #March 17
 [spreadsheet](https://docs.google.com/spreadsheets/d/1H5mV4lbQfZWFu67HeTRC1wOB98fyLs96NvxOKdumEHo/pubhtml)
 [Chapter1](https://docs.google.com/document/d/1gs7tt9yV4Zc_adYr-OBhOIaH-tFwvF8V7KM_3AMlIdY/pub)
