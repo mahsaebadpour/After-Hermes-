@@ -197,21 +197,30 @@ for--to admire the view?"]
 *Notes from the bible*
 
 Ashley
+
  ◄ James 1:11 ►For the sun rises with its scorching heat and withers the grass; its
+
 flower falls, and its beauty perishes. So also will the rich man fade away in the
 midst of his pursuits.
+
 ◄ Revelation 7:16 ►
+
 They shall hunger no more, neither thirst anymore; the sun shall not strike them,
 nor any scorching heat.
 
 Matt:
+
 James 5:18 
+
 Then he prayed again, and heaven gave rain, and the earth bore its fruit.
 
 Leviticus         26:4
+
 Then I will give you your rains in their season, and the land shall yield its
 increase, and the trees of the field shall yield their fruit.
+
 [Zechariah 10:1
+
 Ask rain from the Lord in the season of the spring rain, from the Lord who makes the
 storm clouds, and he will give them showers of rain, to everyone the vegetation in
 the field.]
