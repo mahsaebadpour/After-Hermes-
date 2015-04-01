@@ -12,16 +12,25 @@ Lisa Samuels and Jerome McGann wrote an article titled "Deformance and Interpret
 **Notes to talk about (my own project)**
 
 I have been making use of close reading followed by deformance o depict weather patterns and their association with the emotional valance in Fitzgerald’s the great Gatsby. I am primarily concerned with deforming the content and observing in what ways it affects the form. 
+
 Gatsby has been studied to death in various aspects. I, however, look into the weather patterns, for I suspected an existing association between weather conditions and emotions in the novel. 
+
 I primarily started with close reading the text to determine areas to focus on and parts of the text to employ deformance to.
+
 Therefore, I prepared a spread sheet and as I was reading through the novel I came upon several instances of mention of the weather. The first significant one was Nick’s reunion with Daisy; a day full of conflict and tension.
 One of the most important ones was in chapter five where Gatsby and Daisy meet after five years. Although it is raining all throughout the incident this chapter is emotionally the most positive one. 
+
 I, using python, looked into how many times a certain word was repeated and in this chapter the word “rain” was mentioned about half as much as it was repeated in the whole novel.
+
 I have modified a short passage from the part that leads the characters into plaza and ultimately the three deaths.  I deformed the text by replacing the weather indictors –in this case specifically words related to heat- with opposite ones. This alteration changes the plot and the story in a way that prevents the demise of three characters.
+
 I also ran an emotional analysis through the whole novel using Matthew Jockers’ syuzhet package which looks into the structure of narrative by means of sentimental analysis and reveals emotional and effectual shifts that cause the narrative movement between conflict and conflict resolution.[Jockers, 2014]
+
 This analysis revealed a positive association of emotions with rain and a negative one with the sun and heat. 
 So the question why Fitzgerald was using these associations needed to be addressed.  The scientific study of the way weather affects the mood sowed no indication of an association. And since the cultural and social background belief about the link between rainy weather and mood is a negative one, it could not be a possible source for Fitzgerald’s use of weather.
+
 It is interesting to note that Fitzgerald quotes Edward Thomas’s poem “the rain” in Gatsby: “blessed are the dead that rain falls on” assuming that he did not merely copy the sentence and there must be more reasons as to why rain is a sign of bliss I looked into religion. 
+
 Thomas Dilworth argues that Gatsby is an evocation of Jesus (119) and interestingly enough I found several quotes from the bible espousing the idea that these associations might have been religious.
   
   
