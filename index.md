@@ -1,11 +1,16 @@
 #March 31
 ##Panel Discussion
 ###Defiling the Text: Deformance and Religion in Scripture, Prose and Poetry
+
 **Abstract:**
 Typically literary criticism sees the primary text as sacred: deformance seeks to break that paradigm. When Lisa Samuels and Jerome McGann wrote “Deformance and Interpretation,” they demonstrated how the deformed text can lead to a better understanding of the original, yet to highlight the work of deformance they used highly formalized poetry as examples. This panel’s three projects exhibit both the original procedures of Samuels and McGann while expanding beyond genre and technique. Ashley Burr, in her project “The Religious Libertine” uses the technique of substitution to create a spectrum of deformed versions of John Wilmot, Second Earl of Rochester's poem "To the Postboy" that range from spiritual to sinful. In a departure from formalized poetry, Mahsa Ebadpour's project “Some Like it Hot” uses alteration to deform the weather patterns of F Scott Fitzgerald’s The Great Gatsby and show how heat can kill and rain can save. Lastly, in a literal act of heresy, Matthew McBride’s “A Dark Tower” uses user gameplay to reorder the biblical verses from Genesis 11 to blur the line between user and God, the Word and code, and performance and deformance.
+
 **Introduction to Deformation:**
 Lisa Samuels and Jerome McGann wrote an article titled "Deformance and Interpretation". Their concept of Deformance is defined as changing a text in order to explore underlying meanings. There are four types of deformative methods described: reordering, isolating, altering and adding. They claim that when you change the text it changes the way it functions and you can then see a different side of the piece, which can provoke new questions. This method as proposed by Samuels and McGann is on poetry our group has stretched this critique to read further and use deformation for more than they originally suggested, using prose and scripture in addition to poetry. All three of us have adapted this method in our own research in order to amplify our readings of various texts.
+
+
 **Notes to talk about (my own project)**
+
 I have been making use of close reading followed by deformance o depict weather patterns and their association with the emotional valance in Fitzgerald’s the great Gatsby. I am primarily concerned with deforming the content and observing in what ways it affects the form. 
 Gatsby has been studied to death in various aspects. I, however, look into the weather patterns, for I suspected an existing association between weather conditions and emotions in the novel. 
 I primarily started with close reading the text to determine areas to focus on and parts of the text to employ deformance to.
@@ -18,8 +23,12 @@ This analysis revealed a positive association of emotions with rain and a negati
 So the question why Fitzgerald was using these associations needed to be addressed.  The scientific study of the way weather affects the mood sowed no indication of an association. And since the cultural and social background belief about the link between rainy weather and mood is a negative one, it could not be a possible source for Fitzgerald’s use of weather.
 It is interesting to note that Fitzgerald quotes Edward Thomas’s poem “the rain” in Gatsby: “blessed are the dead that rain falls on” assuming that he did not merely copy the sentence and there must be more reasons as to why rain is a sign of bliss I looked into religion. 
 Thomas Dilworth argues that Gatsby is an evocation of Jesus (119) and interestingly enough I found several quotes from the bible espousing the idea that these associations might have been religious.
+  
+  
    **Script**
-The original text (Matt)
+
+*The original text (Matt)*
+
 The next day was broiling, almost the last, certainly the warmest, of
 the summer.
 . . . Through the hall of the Buchanans' house blew a faint wind,
@@ -85,7 +94,7 @@ Tom threw on both brakes impatiently and we slid to an abrupt
 dusty stop under Wilson's sign.
 
 
-The deformed text (Ashley)
+*The deformed text (Ashley)*
 
 The next day was cool, almost the last, certainly the coolest, of
 the summer. 
@@ -177,7 +186,7 @@ from the interior of his establishment and gazed hollow-eyed at the car.
 for--to admire the view?"]
 
 
-Notes from the bible
+*Notes from the bible*
 
 Ashley
  ◄ James 1:11 ►For the sun rises with its scorching heat and withers the grass; its
@@ -320,6 +329,11 @@ At this point I cannot decide on the alterations that are to be made on the weat
 
 This study examines the effects of six weather parameters (temperature, wind power, sunlight, precipitation, air pressure, and photoperiod) on mood (positive affect, negative affect, and tiredness). I am hoping that the corpus of this work will provide me with insights into the existing associations between weather and mood in order to compare to the associations made in The great Gatsby.
 
+**Dilworth, Thomas. "The Passion Of Gatsby: Evocation Of Jesus In Fitzgerald's THE GREAT GATSBY." Explicator 68.2 (2010): 119-121. Academic Search Complete. Web. 1 Apr. 2015.**
+
+This article argues that Gatsby is an evocation of Jesus which helps me build on the fact that Fitzgerald is employing religious associations regarding different weather conditions. 
+
+
 **Flatley, Jonathan. Affective Mapping: Melancholia and the Politics of Modernism. Cambridge, Massachusetts, and London, England: HARVARD UNIVERSITY PRESS, 2008. Print.**
 
 "Affective mapping” is the name Flatley gives to the aesthetic technology—in the older, more basic sense of a techne—that represents the historicity of one’s affective experience. In mapping out one’s affective life and its historicity, a political problem (such as racism or revolution) that may have been previously invisible, opaque, difﬁcult, abstract, and above all depressing may be transformed into one that is interesting, that solicits and rewards one’s attention. Since this work is mainly concerned with the study of nineteenth and twentieth centuries, it will help me gain a better understanding of "affect" in modernism and find out whether or not Fitzgerald was making associations within this frame .
@@ -377,8 +391,7 @@ This article makes lucid associations with ecology and various events of the sto
 
 #Thought piece revised 
 
-Perhaps I should also revise my heading since my thought piece is not so much revised as crumbled and tossed away. After much consideration along with a sudden realisation of the shortness of life and the length of my previous project, I decided to work on The Great Gatsby(at least the author is the same!).
-
+Perhaps I should also revise my heading since my thought piece is not so much revised as crumbled and tossed away. After much consideration along with a sudden realisation of the shortness of life and the length of my previous project, I decided to work on The Great Gatsby.
 
 Fitzgerald's The Great Gatsby , the story of a young millionaire attempting desperately to gain the affection of his love, has been studied, wrote on , and analysed in every aspect;the decay of american dream , materialism, clash of different social classes and so forth. The greatness of the Gatsby-the book- is stemmed from the fact that it never fails to fascinate the readers. For there is always a new revelation gained while fiddling with this work of literature. Symbols and motifs are a strong element in the story and there has been a lot of emphasis on the green light and the eyes of Doctor T. J. Eckleburg, leaving weather and its impact through out the story quite unnoticed. 
 
