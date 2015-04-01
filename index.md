@@ -1,3 +1,211 @@
+#March 31
+##Panel Discussion
+###Defiling the Text: Deformance and Religion in Scripture, Prose and Poetry
+**Abstract:**
+Typically literary criticism sees the primary text as sacred: deformance seeks to break that paradigm. When Lisa Samuels and Jerome McGann wrote “Deformance and Interpretation,” they demonstrated how the deformed text can lead to a better understanding of the original, yet to highlight the work of deformance they used highly formalized poetry as examples. This panel’s three projects exhibit both the original procedures of Samuels and McGann while expanding beyond genre and technique. Ashley Burr, in her project “The Religious Libertine” uses the technique of substitution to create a spectrum of deformed versions of John Wilmot, Second Earl of Rochester's poem "To the Postboy" that range from spiritual to sinful. In a departure from formalized poetry, Mahsa Ebadpour's project “Some Like it Hot” uses alteration to deform the weather patterns of F Scott Fitzgerald’s The Great Gatsby and show how heat can kill and rain can save. Lastly, in a literal act of heresy, Matthew McBride’s “A Dark Tower” uses user gameplay to reorder the biblical verses from Genesis 11 to blur the line between user and God, the Word and code, and performance and deformance.
+**Introduction to Deformation:**
+Lisa Samuels and Jerome McGann wrote an article titled "Deformance and Interpretation". Their concept of Deformance is defined as changing a text in order to explore underlying meanings. There are four types of deformative methods described: reordering, isolating, altering and adding. They claim that when you change the text it changes the way it functions and you can then see a different side of the piece, which can provoke new questions. This method as proposed by Samuels and McGann is on poetry our group has stretched this critique to read further and use deformation for more than they originally suggested, using prose and scripture in addition to poetry. All three of us have adapted this method in our own research in order to amplify our readings of various texts.
+**Notes to talk about (my own project)**
+I have been making use of close reading followed by deformance o depict weather patterns and their association with the emotional valance in Fitzgerald’s the great Gatsby. I am primarily concerned with deforming the content and observing in what ways it affects the form. 
+Gatsby has been studied to death in various aspects. I, however, look into the weather patterns, for I suspected an existing association between weather conditions and emotions in the novel. 
+I primarily started with close reading the text to determine areas to focus on and parts of the text to employ deformance to.
+Therefore, I prepared a spread sheet and as I was reading through the novel I came upon several instances of mention of the weather. The first significant one was Nick’s reunion with Daisy; a day full of conflict and tension.
+One of the most important ones was in chapter five where Gatsby and Daisy meet after five years. Although it is raining all throughout the incident this chapter is emotionally the most positive one. 
+I, using python, looked into how many times a certain word was repeated and in this chapter the word “rain” was mentioned about half as much as it was repeated in the whole novel.
+I have modified a short passage from the part that leads the characters into plaza and ultimately the three deaths.  I deformed the text by replacing the weather indictors –in this case specifically words related to heat- with opposite ones. This alteration changes the plot and the story in a way that prevents the demise of three characters.
+I also ran an emotional analysis through the whole novel using Matthew Jockers’ syuzhet package which looks into the structure of narrative by means of sentimental analysis and reveals emotional and effectual shifts that cause the narrative movement between conflict and conflict resolution.[Jockers, 2014]
+This analysis revealed a positive association of emotions with rain and a negative one with the sun and heat. 
+So the question why Fitzgerald was using these associations needed to be addressed.  The scientific study of the way weather affects the mood sowed no indication of an association. And since the cultural and social background belief about the link between rainy weather and mood is a negative one, it could not be a possible source for Fitzgerald’s use of weather.
+It is interesting to note that Fitzgerald quotes Edward Thomas’s poem “the rain” in Gatsby: “blessed are the dead that rain falls on” assuming that he did not merely copy the sentence and there must be more reasons as to why rain is a sign of bliss I looked into religion. 
+Thomas Dilworth argues that Gatsby is an evocation of Jesus (119) and interestingly enough I found several quotes from the bible espousing the idea that these associations might have been religious.
+   **Script**
+The original text (Matt)
+The next day was broiling, almost the last, certainly the warmest, of
+the summer.
+. . . Through the hall of the Buchanans' house blew a faint wind,
+carrying the sound of the telephone bell out to Gatsby and me as we
+waited at the door.
+The room, shadowed well with awnings, was dark and cool. Daisy and
+Jordan lay upon an enormous couch, like silver idols, weighing down
+their own white dresses against the singing breeze of the fans.
+"Make us a cold drink," cried Daisy.
+Tom came back,
+preceding four gin rickeys that clicked full of ice.
+
+Gatsby took up his drink.
+
+"They certainly look cool," he said, with visible tension.
+
+We drank in long greedy swallows.
+
+"What'll we do with ourselves this afternoon," cried Daisy, "and the
+day after that, and the next thirty years?"
+
+"Don't be morbid," Jordan said. "Life starts all over again when it gets
+crisp in the fall."
+
+"But it's so hot," insisted Daisy, on the verge of tears, "And
+everything's so confused. Let's all go to town!"
+
+"All right," broke in Tom quickly, "I'm perfectly willing to go to
+town. Come on--we're all going to town."
+
+They went upstairs to get ready while we three men stood there shuffling
+the hot pebbles with our feet.
+
+
+"Shall we all go in my car?" suggested Gatsby. He felt the hot, green
+leather of the seat. "I ought to have left it in the shade."
+
+"Is it standard shift?" demanded Tom.
+
+"Yes."
+
+"Well, you take my coupé and let me drive your car to town."
+
+The suggestion was distasteful to Gatsby.
+
+"I don't think there's much gas," he objected.
+
+"Plenty of gas," said Tom boisterously. He looked at the gauge.
+"And if it runs out I can stop at a drug store. You can buy anything at a
+drug store nowadays."
+
+We were all irritable now with the fading ale and, aware of it,
+we drove for a while in silence. Then as Doctor T. J. Eckleburg's faded
+eyes came into sight down the road, I remembered Gatsby's caution about
+gasoline.
+
+"We've got enough to get us to town," said Tom.
+
+"But there's a garage right here," objected Jordan. "I don't want to get
+stalled in this baking heat."
+
+Tom threw on both brakes impatiently and we slid to an abrupt
+dusty stop under Wilson's sign.
+
+
+The deformed text (Ashley)
+
+The next day was cool, almost the last, certainly the coolest, of
+the summer. 
+
+. . . Through the hall of the Buchanans' house blew a faint wind,
+carrying the sound of the telephone bell out to Gatsby and me as we
+waited at the door.
+
+
+The room, shadowed well with awnings, was dark and cool. Daisy and
+Jordan lay upon an enormous couch, like silver idols, weighing down
+their own white dresses against the heat of the radiators.
+
+"We can't move," they said together.
+
+"Make us a hot cup of tea," cried Daisy.
+
+
+Tom came back,
+preceding four cups of tea that steam rose from in the cold.
+
+Gatsby took up his tea.
+
+"They certainly look hot," he said, with visible tension.
+
+We drank in long greedy swallows. Sitting on the big couch, they sipped the warm tea and relaxed in the comfort that the cold lurking outside is trapped in the wind. 
+
+[]
+
+"What'll we do with ourselves this afternoon," cried Daisy, "and the
+day after that, and the next thirty years?"
+
+"Don't be morbid," Jordan said. "Life starts all over again when it gets
+crisp in the fall."
+
+"But it's so cold," insisted Daisy, on the verge of tears, "And
+everything's so confused. Let's all go to town!"
+
+Her voice struggled on through the cold, beating against it, moulding its
+senselessness into forms.
+
+"Who wants to go to town?" demanded Daisy insistently. Gatsby's eyes
+floated toward her. "Ah," she cried, "you look so cool."
+
+
+"All right," broke in Tom quickly, "I'm perfectly willing to go to
+town. Come on--we're all going to town."
+
+
+His hand, trembling with his effort at self control, bore to his lips the
+last of his glass of ale. Daisy's voice got us to our feet and out on
+to the freezing gravel drive.
+
+"Are we just going to go?" she objected. "Like this? Aren't we going to
+let any one smoke a cigarette first?"
+
+"Shall we all go in my car?" suggested Gatsby. He felt the cool, green
+leather of the seat. 
+
+"Is it standard shift?" demanded Tom.
+
+"Yes."
+
+"Well, we will meet you up in town."
+
+[The suggestion was distasteful to Gatsby.
+
+"I don't think there's much gas," he objected.
+
+"Plenty of gas," said Tom boisterously. He looked at the gauge.
+"And if it runs out I can stop at a drug store. You can buy anything at a
+drug store nowadays."
+
+We were all irritable now with the fading ale and, aware of it,
+we drove for a while in silence. Then as Doctor T. J. Eckleburg's faded
+eyes came into sight down the road, I remembered Gatsby's caution about
+gasoline.
+
+"We've got enough to get us to town," said Tom.
+
+"But there's a garage right here," objected Jordan. "I don't want to get
+stalled in this crisp(cool) chill/mild chill."
+
+Tom threw on both brakes impatiently and we slid to an abrupt
+dusty stop under Wilson's sign. After a moment the proprietor emerged
+from the interior of his establishment and gazed hollow-eyed at the car.
+
+"Let's have some gas!" cried Tom roughly. "What do you think we stopped
+for--to admire the view?"]
+
+
+Notes from the bible
+
+Ashley
+ ◄ James 1:11 ►For the sun rises with its scorching heat and withers the grass; its
+flower falls, and its beauty perishes. So also will the rich man fade away in the
+midst of his pursuits.
+◄ Revelation 7:16 ►
+They shall hunger no more, neither thirst anymore; the sun shall not strike them,
+nor any scorching heat.
+
+Matt:
+James 5:18 
+Then he prayed again, and heaven gave rain, and the earth bore its fruit.
+
+Leviticus         26:4
+Then I will give you your rains in their season, and the land shall yield its
+increase, and the trees of the field shall yield their fruit.
+[Zechariah 10:1
+Ask rain from the Lord in the season of the spring rain, from the Lord who makes the
+storm clouds, and he will give them showers of rain, to everyone the vegetation in
+the field.]
+
+
+Ashley Burr Mahsa Ebadpour Matthew McBride
+
+
+
+
+
 #March 24
 
 ##Abstract
