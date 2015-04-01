@@ -15,9 +15,8 @@ I have been making use of close reading followed by deformance o depict weather 
 
 Gatsby has been studied to death in various aspects. I, however, look into the weather patterns, for I suspected an existing association between weather conditions and emotions in the novel. 
 
-I primarily started with close reading the text to determine areas to focus on and parts of the text to employ deformance to.
+I primarily started with close reading the text to determine areas to focus on and parts of the text to employ deformance to.Therefore, I prepared a spread sheet and as I was reading through the novel I came upon several instances of mention of the weather. The first significant one was Nick’s reunion with Daisy; a day full of conflict and tension.
 
-Therefore, I prepared a spread sheet and as I was reading through the novel I came upon several instances of mention of the weather. The first significant one was Nick’s reunion with Daisy; a day full of conflict and tension.
 One of the most important ones was in chapter five where Gatsby and Daisy meet after five years. Although it is raining all throughout the incident this chapter is emotionally the most positive one. 
 
 I, using python, looked into how many times a certain word was repeated and in this chapter the word “rain” was mentioned about half as much as it was repeated in the whole novel.
